@@ -2,7 +2,7 @@
 
 Please fill in the template below. Some suggestions have been provided to help you understand how to answer each segment.
 
-Before submission, please replace the suggestions (in italics) with your answers. You can keep the prompts though.
+Before submission, please replace the suggestions (in italics) with your answers.
 
 ### Project Name: _Enter project name_
 ### Team Name, Team Number: _Enter team name and number who the project belongs to_
