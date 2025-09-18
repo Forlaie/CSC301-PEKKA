@@ -78,9 +78,18 @@ Briefly describe which option you have agreed to.
 #### Q6: Have you met with your team?
 
 Do a team-building activity in-person or online. This can be playing an online game, meeting for bubble tea, lunch, or any other activity you all enjoy.
-* Get to know each other on a more personal level.
-* Provide a few sentences on what you did and share a picture or other evidence of your team building activity.
-* Share at least three fun facts from members of you team (total not 3 for each member).
+
+![Team Building Activity](team-building.png)
+We all played SketchHeads on Discord together! It's similar to Pictionary, where one person draws and everyone else guesses.
+We played for a couple rounds, and Jessica ended up winning first place! Natalie was the best at drawing, though.
+
+Fun Facts:
+
+1. Jessica has done horse riding lessons before (lasted like a year or so)
+2. Khushi loves Percy Jackson
+3. Masaru has broken his collar bone over Pokemon Go
+4. Natalie has gone to into the ocean in Japan and pulled out kelp for dinner before
+5. Ryan has spent 6 years of his life in a former youth detention centre
 
 
 #### Q7: What are the roles & responsibilities on the team?
