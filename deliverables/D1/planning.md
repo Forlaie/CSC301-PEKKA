@@ -7,10 +7,10 @@
 #### Q1: What is the product?
 
  > Short (1 - 2 min' read)
-*- Users (Consumers & Business) can "Hire" a Voice Agent, Receive a Phone Number
-- Customize the Response & Tonality Patterns of the Agent (We will teach the team how to do this)
-- Have the Voice AI Agent call others and extract information from the call
-- Have the Voice AI Agent receive calls and interact with other Voice Agents.*
+- _Users (Consumers & Business) can "Hire" a Voice Agent, Receive a Phone Number_
+- _Customize the Response & Tonality Patterns of the Agent (We will teach the team how to do this)_
+- _Have the Voice AI Agent call others and extract information from the call_
+- _Have the Voice AI Agent receive calls and interact with other Voice Agents._
 
  * Start with a single sentence, high-level description of the product.
  * Be clear - Describe the problem you are solving in simple terms.
