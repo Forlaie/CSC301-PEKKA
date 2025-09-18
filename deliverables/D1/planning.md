@@ -7,6 +7,11 @@
 #### Q1: What is the product?
 
  > Short (1 - 2 min' read)
+ - Users (Consumers & Business) can "Hire" a Voice Agent, Receive a Phone Number
+- Customize the Response & Tonality Patterns of the Agent (We will teach the team how to do this)
+- Have the Voice AI Agent call others and extract information from the call
+- Have the Voice AI Agent receive calls and interact with other Voice Agents.
+
  * Start with a single sentence, high-level description of the product.
  * Be clear - Describe the problem you are solving in simple terms.
  * Specify if you have a partner and who they are.
@@ -20,9 +25,7 @@
 
 
 #### Q2: Who are your target users?
-
-  > Short (1 - 2 min' read max)
- * Be specific (e.g. a 'a third-year university student studying Computer Science' and not 'a student')
+Consumers & Business who want to automate financial workflows through Voice using an AI Agent.
  * **Feel free to use personas. You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).**
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
@@ -46,7 +49,9 @@
 #### Q5: Have you decided on how you will build it? Share what you know now or tell us the options you are considering.
 
 > Short (1-2 min' read max)
- * What is the technology stack? Specify languages, frameworks, libraries, PaaS products or tools to be used or being considered. 
+ * What is the technology stack? Specify languages, frameworks, libraries, PaaS products or tools to be used or being considered.
+Students can use any technology or platform including Twilio, Vapi, Retell etc
+Internally we use a very modern up to date tech stack; Nx, React, MongoDB, Mongoose, Node and some of our newer projects use Vite, Typescript, Tailwind, Etc
  * How will you deploy the application?
  * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
  * Will you be using third party applications or APIs? If so, what are they?
